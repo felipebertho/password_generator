@@ -2,4 +2,4 @@
 
 Gerador de senhas fortes em python.
 
-  primeiro projet em python.
+  primeiro projeto em python.
